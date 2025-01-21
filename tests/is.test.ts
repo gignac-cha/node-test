@@ -1,4 +1,3 @@
-import assert from 'node:assert';
 import test, { describe } from 'node:test';
 import { expect } from './expect';
 import { is } from '../sources/is';
