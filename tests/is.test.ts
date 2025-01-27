@@ -1,5 +1,5 @@
 import test, { describe } from 'node:test';
-import { expect } from './expect';
+import { expect } from './expect.js';
 import { is } from '../sources/is';
 
 describe('is', () => {
